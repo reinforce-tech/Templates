@@ -1,0 +1,8 @@
+inline tag  are those tag that don't a group 
+
+block tag are those group that had a tag already
+
+packetcodeofficial.github.io
+
+for creating a table you need to put first the <table> tag 
+and then you need to put the <thead> <tr> <th>
